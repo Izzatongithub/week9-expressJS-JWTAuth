@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Penjelasan Hasil Program
 
 Judul Program: API untuk program to do list, yang dapat melakukan CRUD
@@ -26,3 +27,6 @@ Judul Program: API untuk program to do list, yang dapat melakukan CRUD
     Dari gambar dibawah, hasil DELETE yang menampilkan data yang telah di hapus
    <img width="1920" height="1080" alt="DELETE, hapus data sesuai id_tugas" src="https://github.com/user-attachments/assets/a0255d8b-dc1c-4304-b054-b7ab2a4e62f4" />
 
+=======
+# wee9-expressJS-JWTAuth
+>>>>>>> 7eeb414a74fa3b21941ccb901552e97767970a4e
