@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Express dengan JWT AUTH
+
 ### Penjelasan Hasil Program
 
 Judul Program: API untuk program to do list, yang dapat melakukan CRUD
@@ -27,6 +28,13 @@ Judul Program: API untuk program to do list, yang dapat melakukan CRUD
     Dari gambar dibawah, hasil DELETE yang menampilkan data yang telah di hapus
    <img width="1920" height="1080" alt="DELETE, hapus data sesuai id_tugas" src="https://github.com/user-attachments/assets/a0255d8b-dc1c-4304-b054-b7ab2a4e62f4" />
 
-=======
-# wee9-expressJS-JWTAuth
->>>>>>> 7eeb414a74fa3b21941ccb901552e97767970a4e
+10. POST untuk mendapatkan token melalui routes `Registrasi`
+    Dari gambar di bawah, gunakan method post untuk menambah data ke dalam tabel `users`, apabila berhasil akan menampilkan pesan sukses dan token     untuk autentikasi
+    <img width="1541" height="808" alt="image" src="https://github.com/user-attachments/assets/b64c61d0-23db-4838-8dc6-08d73b97e283" />
+
+11. POST untuk cek data `users`
+    Dari gambar di bawahh, digunakan method post untuk mengirim data dan melakukan validasi data `users` yaitu `username` dan `password`. dan          apabila validasi berhasil makan akan menampilkan kondisi `success`
+    <img width="1533" height="804" alt="image" src="https://github.com/user-attachments/assets/7bb69433-3306-46d8-a360-12e662eab2f9" />
+
+12. Memasukkan `Key` dan `value` pada headers untuk validasi token yang suddah didapat dari `registrasi`, `Key` di atur menjadi `Authorization`
+    <img width="1553" height="799" alt="image" src="https://github.com/user-attachments/assets/9f94b1d2-def3-4fae-949e-48bf682d5c3d" />
